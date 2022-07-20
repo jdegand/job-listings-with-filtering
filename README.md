@@ -25,9 +25,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](./job-listing-desktop.png)
+![](./job-listing-desktop.png "desktop")
 
-![](./job-listing-mobile.png)
+![](./job-listing-mobile.png "mobile")
 
 ### Links
 
@@ -47,7 +47,7 @@ Users should be able to:
 ### Continued development
 
 - Clean up CSS organization
-- Filters but no way to really go backwards 
+- Filters but no way to really go backwards - have to refresh to reset
 - Router?
 - Pagination
 - Fetch instead of just importing the data
